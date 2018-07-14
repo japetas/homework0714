@@ -1,0 +1,94 @@
+.header-wrapper{
+	background-color: black;
+}
+header{
+	height: 50px;
+	width: 750px;
+	margin: 0 auto;
+	}
+footer{
+	text-align: center;
+	background-color: black;
+	color: #aeb7af;
+	padding: 10px;
+	font-style: italic;
+	}
+header img{
+	margin-top:10px;
+}
+nav
+{
+	float: right;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+}
+nav a{
+	color: #aeb7af;
+}
+.clearfix{
+	clear: both;
+}
+
+//The end of the nav bar
+
+main{
+	width: 750;
+}
+
+.greyone{
+	height: 400px;
+	background-color: #aeb7af;
+	padding: 5px;
+}
+
+h1{
+	text-align: center;
+	padding-top: 50px;
+}
+div.butonas{
+	margin-top: 200px;
+	text-align: center;
+}
+
+div.butonas a{
+	background-color: black;
+	padding: 10px;
+	color: white;
+}
+
+// The end of the grey section
+
+h2.aboutus{
+	text-align: right;
+	padding: 50px 0px 0px 0px;
+}
+.whiteone{
+	width: 750px;
+	text-align: justify;
+	margin: 0 auto;
+	height: 400px;
+}
+h2.aboutus{
+	text-align: right;
+	padding: 50px 0px 0px 0px;
+}
+
+h2.contactus{
+	text-align: justify;
+	padding: 50px 0px 0px 0px;
+}
+.section-wrapper{
+	background-color: #d2efec;
+	height: 400px;
+}
+.tealone{
+	width: 750px;
+	text-align: justify;
+	margin: 0 auto;
+	height: 400px;
+}
+
+// The end of the teal section
